@@ -77,7 +77,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Templates',
-            href: 'https://gumroad.com'
+            href: 'https://maxiyad.gumroad.com'
         },
         {
             text: 'All Posts',
@@ -96,7 +96,7 @@ const siteConfig: SiteConfig = {
         },
         {
             text: 'Templates',
-            href: 'https://gumroad.com'
+            href: 'https://maxiyad.gumroad.com'
         },
         {
             text: 'Contact',
