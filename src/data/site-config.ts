@@ -114,16 +114,6 @@ const siteConfig: SiteConfig = {
         title: 'Bring Back Your Dream Restaurant',
         text: "You've poured your heart and soul into your store. But hard work can only get you so far and a poor foundation will have you working overtime and not seeing results.\n\n" +
             "It's time to set yourself apart as the leading restaurant and become the kick-ass restaurant your customers cannot wait to come back to.",
-        image: {
-            src: '/medium.webp',
-            alt: 'Alt Text'
-        },
-        actions: [
-            {
-                text: 'Get Started',
-                href: '/contact'
-            }
-        ]
     },
     about: {
         title: 'Meet your specialist',
@@ -132,18 +122,10 @@ const siteConfig: SiteConfig = {
             "It's my passion because I know how it feels to place all your effort into a dying business, only to get nothing back. As an extremely systematic and resourceful person, I've found my purpose in getting restaurant owners out of that slump. Because seeing their face shine once again when seeing their thriving store can keep me going forever.\n\n" +
 
             "My goal is to see your face shine once more when thinking about your restaurant. And revamp it to the thriving business we know it can be.",
-        image: {
-            src: '/medium.webp',
-            alt: 'Alt Text'
-        },
     },
     contact: {
         title: 'contact Title',
         text: "contact desc",
-        image: {
-            src: '/medium.webp',
-            alt: 'Alt Text'
-        },
     },
     terms: {
         title: 'Terms',
