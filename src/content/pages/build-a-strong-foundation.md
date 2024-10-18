@@ -51,7 +51,7 @@ This is averaged across all your outreach methods.
 Estimate if there's enough (online & offline) traffic to convert.
 
 
-# Outcome:
+## Outcome:
 
 Everything hinges on small restaurant owners getting this right.
 
