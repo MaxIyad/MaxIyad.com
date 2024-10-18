@@ -7,7 +7,7 @@ publishDate: 'Oct 18 2024'
 
 
 
-**Foundation:**
+# Foundation:
 
 A restaurant's foundation is easy to understand but hard to implement.
 
@@ -22,7 +22,7 @@ Here are 3 questions the best owners use to determine:
 
 
 
-1. **Who's your typical customer?**
+## 1. **Who's your typical customer?**
 
 For whatever reason, this is a widespread phenomenon:
 
@@ -30,7 +30,7 @@ My client's marketing efforts are (almost) always applied to an outside group.
 
 Which significantly increases acquisition cost with far less return.
 
-2. **How much are they willing to pay?**
+## 2. **How much are they willing to pay?**
 
 This is unfortunately a universal truth:
 
@@ -40,7 +40,7 @@ And set their prices ~20% lower thinking it makes them competitive.
 
 Don't fall into this trap (please.)
 
-3. **How many potential customers are needed per day?**
+## 3. **How many potential customers are needed per day?**
 
 This will be in the form of a percentage. 
 
@@ -51,7 +51,7 @@ This is averaged across all your outreach methods.
 Estimate if there's enough (online & offline) traffic to convert.
 
 
-**Outcome**:
+# Outcome:
 
 Everything hinges on small restaurant owners getting this right.
 
