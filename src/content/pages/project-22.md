@@ -1,67 +1,63 @@
 ---
-title: 'EcoBuddy: Sustable Living App'
-description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
-excerpt: Choosing the right framework for your web project is a critical decision that can significantly impact the development process and the success of your project. With so many options available, it's essential to consider various factors before making a choice.
-publishDate: 'Jan 02 1000'
-seo:
-  image:
-    src: '/project-1.jpg'
-    alt: Project preview
+title: 'Build a Strong Restaurant Foundation with 3 Questions'
+description: Avoid the common pitfall of starting or running a restaurant business with a flimsy foundation. Solidify your foundation, and grow steadily.
+excerpt: Avoid the common pitfall of starting or running a restaurant business with a flimsy foundation. Solidify your foundation, and grow steadily.
+publishDate: 'Oct 18 2024'
 ---
 
-![Project preview](/project-1.jpg)
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
 
-**Project Overview:**
-EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
+**Foundation:**
 
-## Objectives
+A restaurant's foundation is easy to understand but hard to implement.
 
-1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
-2. Utilize gamification elements to make sustainable living fun and interactive.
-3. Provide educational resources and personalized challenges to empower users to make informed eco-conscious decisions.
+Without it, stores won't survive the slightest setback.
 
-## Features
+Here are 3 questions the best owners use to determine:
 
-1. **EcoScore and Challenges:**
+- Pricing
+- Food costs
+- Overhead (is it overpriced?)
+- Business validity
 
-- Users are assigned an EcoScore based on their sustainable activities and choices.
-- Daily and weekly challenges encourage users to adopt new habits and compete with friends or the community to earn EcoPoints.
 
-2. **Personalized Eco-Goals:**
 
-- Users can set and track personalized eco-goals, such as reducing plastic usage, conserving water, or choosing eco-friendly transportation.
-- The app provides tips and suggestions to help users achieve their goals.
+1. **Who's your typical customer?**
 
-3. **Green Rewards Marketplace:**
+For whatever reason, this is a widespread phenomenon:
 
-- EcoPoints earned through challenges and sustainable actions can be redeemed in a virtual Green Rewards Marketplace.
-- The marketplace offers discounts on eco-friendly products, services, and even contributions to environmental causes.
+My client's marketing efforts are (almost) always applied to an outside group.
 
-4. **Community Hub:**
+Which significantly increases acquisition cost with far less return.
 
-- A community feature allows users to connect, share their eco-friendly achievements, and inspire others.
-- Users can join local eco-groups, organize clean-up events, and collaborate on sustainability projects.
+2. **How much are they willing to pay?**
 
-5. **EcoEducator AI Assistant:**
+This is unfortunately a universal truth:
 
-- An AI-powered assistant, EcoEducator, provides personalized eco-tips, facts, and information based on users' preferences and habits.
-- Users can chat with EcoEducator for instant advice on sustainable living.
+Business owners average their competitors' pricing,
 
-## Technology Stack
+And set their prices ~20% lower thinking it makes them competitive.
 
-- Frontend: React Native for cross-platform mobile app development.
-- Backend: Firebase for real-time data synchronization and user authentication.
-- Database: Firestore for scalable and flexible data storage.
-- AI Integration: Dialogflow for natural language processing and conversation with EcoEducator.
+Don't fall into this trap (please.)
 
-## Outcome
+3. **How many potential customers are needed per day?**
 
-EcoBuddy has successfully created a community of environmentally conscious individuals who actively participate in sustainable living practices. The app not only educates and motivates users but also provides tangible rewards for their commitment to a greener lifestyle, fostering a positive impact on the environment.
+This will be in the form of a percentage. 
 
-## Client Testimonial
+Think of it as your conversion rate per impression.
 
-> We couldn't be happier with the results delivered by Ethan Donovan. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
+This is averaged across all your outreach methods.
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+Estimate if there's enough (online & offline) traffic to convert.
+
+
+**Outcome**:
+
+Everything hinges on small restaurant owners getting this right.
+
+Without these numbers, any restaurant is simply guessing until they land on something that works. Which may be too late.
+
+Don't continue with a flimsy foundation
+
+
+**Note:** If you'd like more information regarding any of these, do not hesitate to [get in touch](https://MaxIyad.com/contact).
