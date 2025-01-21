@@ -60,4 +60,4 @@ Without these numbers, any restaurant is simply guessing until they land on some
 Don't continue with a flimsy foundation
 
 
-**Note:** If you'd like more information regarding any of these, do not hesitate to [get in touch](https://MaxIyad.com/contact).
+**Note:** If you'd like more information regarding any of these, do not hesitate to [get in touch](https://MaxIyad.com/contact/).
