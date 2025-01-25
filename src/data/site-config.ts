@@ -99,22 +99,22 @@ const siteConfig: SiteConfig = {
             "It's time to set yourself apart as the leading restaurant and become the kick-ass restaurant your customers cannot wait to come back to.",
         actions: [
             {
-                text: 'Get Started',
+                text: 'View All Content',
+                href: '/posts'
+            },
+            {
+                text: 'Get in Touch',
                 href: '/contact'
             }
         ]
     },
     about: {
         title: 'Meet your specialist',
-        text: "I'm Max, a restaurant turn-around specialist. I've specialized in strategic systems that turn struggling restaurants in Ireland into thriving dream stores. My experience started with a <€150/day average restaurant in the heart of Waterford. It turned profitable within 3 months of implementing my systems and is now doing better than ever. Doing that, I discovered my passion for reviving dreams and encouraging restaurants to thrive.\n\n" +
+        text: "I'm Max, a restaurant specialist. I've specialized in strategic systems that turn struggling restaurants in Ireland into thriving dream stores. My experience started with a <€150/day average restaurant in the heart of Waterford. It turned profitable within 3 months of implementing my systems and is now doing better than ever. Doing that, I discovered my passion for reviving dreams and encouraging restaurants to thrive.\n\n" +
 
             "It's my passion because I know how it feels to place all your effort into a dying business, only to get nothing back. As an extremely systematic and resourceful person, I've found my purpose in getting restaurant owners out of that slump. Because seeing their face shine once again when seeing their thriving store can keep me going forever.\n\n" +
 
             "My goal is to see your face shine once more when thinking about your restaurant. And revamp it to the thriving business we know it can be.",
-        image: {
-            src: '/medium.webp',
-            alt: 'Alt Text'
-        },
     },
     terms: {
         title: 'Terms of Service',

@@ -11,11 +11,10 @@ const hero = siteConfig.hero;
         <section class="w-full flex flex-col gap-8 mb-16 sm:mb-24">
             {hero.title && <h1 class="text-3xl leading-tight font-serif font-medium sm:text-5xl sm:leading-tight">{hero.title}</h1>}
             {hero.text && <div class="max-w-none prose prose-dante sm:prose-lg" set:html={marked.parse(hero.text)} />}
-            {hero.actions && hero.actions.length > 0 && (
-                <div class="flex flex-wrap gap-4">
-                    {hero.actions.map((action) => (
-                        <Button href={action.href}>{action.text}</Button>
-                    ))}
+            {hero.actions && hero.actions.length === 2 && (
+                <div class="flex justify-between">
+                    <Button href={hero.actions[0].href}>{hero.actions[0].text}</Button>
+                    <Button href={hero.actions[1].href}>{hero.actions[1].text}</Button>
                 </div>
             )}
         </section>

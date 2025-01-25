@@ -11,5 +11,8 @@ const projects = await getCollection('pages');
 
 <BaseLayout description={'About.'} image={siteConfig.image}>
     <About />
-    <Button href="/contact">Get Started</Button>
+    <div style="display: flex; justify-content: space-between; margin-top: 1rem;">
+        <Button href="/posts">View all Content</Button>
+        <Button href="/contact">Get in Touch</Button>
+    </div>
 </BaseLayout>
