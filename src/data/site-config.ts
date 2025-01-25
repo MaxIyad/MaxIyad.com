@@ -58,8 +58,8 @@ export type SiteConfig = {
 
 const siteConfig: SiteConfig = {
     title: 'Max Iyad',
-    subtitle: 'Restaurant Consultant',
-    description: 'Max Iyad helping restaurant owners make more money and work less',
+    subtitle: 'Restaurant Specialist',
+    description: 'Max Iyad, helping independent Irish restaurant owners make more money',
 
     headerNavLinks: [
         {
@@ -67,27 +67,19 @@ const siteConfig: SiteConfig = {
             href: '/'
         },
         {
-            text: 'Templates',
-            href: 'https://maxiyad.gumroad.com'
-        },
-        {
             text: 'All Posts',
             href: '/posts'
-        },
-        {
-            text: 'Subscribe',
-            href: '/'
         },
 
     ],
     footerNavLinks: [
         {
-            text: 'About',
-            href: '/about'
+            text: 'Home',
+            href: '/'
         },
         {
-            text: 'Templates',
-            href: 'https://maxiyad.gumroad.com'
+            text: 'About',
+            href: '/about'
         },
         {
             text: 'Contact',
@@ -97,8 +89,8 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'x.com',
-            href: 'https://x.com/Max__Iyad'
+            text: 'youtube',
+            href: 'https://www.youtube.com/@Max-Iyad'
         }
     ],
     hero: {
@@ -157,7 +149,7 @@ const siteConfig: SiteConfig = {
     },
     contactForm: {
         title: 'Get in Touch',
-        text: 'Be it a question an invitation to help you in your journey, do not hesitate to get in touch.',
+        text: 'Feel free to ask questions, submit suggestions, or simply get it touch.',
         formUrl: '/'
     },
     postsPerPage: 8,
